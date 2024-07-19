@@ -2,7 +2,7 @@
 
 > Trunk Based Development es una estrategia que se basa en que el mayor tiempo de desarrollo se concentra en una sola rama llamada trunk.
 
-![](images/TrunkBasedDevelopment.png)
+![](TrunkBasedDevelopment.png)
 
 Trunk Based Development (TBD) es una estrategia de desarrollo de software que se enfoca en mantener un único branch (rama) principal, llamada "trunk" o "main", donde los desarrolladores integran sus cambios con frecuencia. A diferencia de otros modelos como GitFlow, donde las ramas pueden ser largas y ramificadas, TBD promueve una integración continua y rápida en una sola línea de desarrollo. Aquí hay una explicación detallada del flujo de trabajo de TBD:
 
